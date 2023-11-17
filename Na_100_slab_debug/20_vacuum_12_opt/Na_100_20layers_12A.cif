@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Na20
+_chemical_formula_sum              "Na20"
+_cell_length_a       4.19992
+_cell_length_b       4.19992
+_cell_length_c       63.8992
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.00000  0.00000  0.18780  1.0000
+  Na  Na2       1.0  0.50000  0.50000  0.22066  1.0000
+  Na  Na3       1.0  0.00000  0.00000  0.25352  1.0000
+  Na  Na4       1.0  0.50000  0.50000  0.28639  1.0000
+  Na  Na5       1.0  0.00000  0.00000  0.31925  1.0000
+  Na  Na6       1.0  0.50000  0.50000  0.35211  1.0000
+  Na  Na7       1.0  0.00000  0.00000  0.38498  1.0000
+  Na  Na8       1.0  0.50000  0.50000  0.41784  1.0000
+  Na  Na9       1.0  0.00000  0.00000  0.45070  1.0000
+  Na  Na10      1.0  0.50000  0.50000  0.48357  1.0000
+  Na  Na11      1.0  0.00000  0.00000  0.51643  1.0000
+  Na  Na12      1.0  0.50000  0.50000  0.54930  1.0000
+  Na  Na13      1.0  0.00000  0.00000  0.58216  1.0000
+  Na  Na14      1.0  0.50000  0.50000  0.61502  1.0000
+  Na  Na15      1.0  0.00000  0.00000  0.64789  1.0000
+  Na  Na16      1.0  0.50000  0.50000  0.68075  1.0000
+  Na  Na17      1.0  0.00000  0.00000  0.71361  1.0000
+  Na  Na18      1.0  0.50000  0.50000  0.74648  1.0000
+  Na  Na19      1.0  0.00000  0.00000  0.77934  1.0000
+  Na  Na20      1.0  0.50000  0.50000  0.81220  1.0000
